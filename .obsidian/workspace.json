@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "40cf08748c72a0ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "9824c68ad765d39e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1f2677e712517f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "08ceaa8a79dafd3a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PDManualAssets/InfoGathering/Pasted image 20230816132048.png"
+              }
+            }
+          },
+          {
+            "id": "b39edf34aa6c00c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference MarkDowns/apps/nginx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2458f06581c685f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1913b920045be2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4309ed58ea3486f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "642568127574617f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3794e4175a8ec856",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e4d197afd602350",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2bc31952771e17c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aff2ce935fdb6567",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reference MarkDowns/apps/nginx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5570ea3bb372ba3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reference MarkDowns/apps/nginx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "933d5df1ed067fc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78b181b68480fd06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reference MarkDowns/apps/nginx.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b39edf34aa6c00c6",
+  "lastOpenFiles": [
+    "Reference MarkDowns/apps/passbolt.md",
+    "Reference MarkDowns/apps/portainer.md",
+    "Reference MarkDowns/apps/nginx.md",
+    "Reference MarkDowns/apps/cloudflare-tunnels.md",
+    "PD Manual/Other/目录.md",
+    "PD Manual/204-更改签名，包名信息.md",
+    "_template/pageTemplate.md",
+    "PD Manual/011-补充材料-信息检索.md",
+    "PD Manual/201-项目导入与版本控制.md",
+    "PD Manual/012-补充材料-有效提问.md",
+    "PD Manual/001-前言.md",
+    "PD Manual/203-设备调试.md",
+    "PD Manual/202-依赖安装.md",
+    "PD Manual/103-Git安装.md",
+    "PD Manual/102-Android Studio安装.md",
+    "PD Manual/101-Java环境搭建.md",
+    "PD Manual/Other",
+    "PDManualAssets/Other/PDManual.png",
+    "Reference MarkDowns/cloud/provider/civo.md",
+    "PDManualAssets/Other",
+    "PDManualAssets/新建文件夹",
+    "Reference MarkDowns/cloud/provider/digitalocean.md",
+    "publish.css",
+    "新建文本文档.txt",
+    "新建文件夹",
+    "Untitled.md",
+    "PD Manual/Untitled.md",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134154.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134136.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134135.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134133.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134131.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134129.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134126.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134124.png",
+    "PDManualAssets/JavaEnv/Pasted image 20230816134122.png",
+    "PDManualAssets/JavaEnv",
+    "Reference MarkDowns/apps/cert-manager.md",
+    "Reference MarkDowns/apps/bind9.md",
+    "Reference MarkDowns/apps/argocd.md",
+    "PDManualAssets/InfoGathering",
+    "Reference MarkDowns/apps/grafana.md",
+    "_template",
+    "PDManualAssets",
+    "Index.md",
+    "Reference MarkDowns/tools/wsl.md"
+  ]
+}
