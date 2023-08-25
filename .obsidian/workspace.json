@@ -31,14 +31,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference MarkDowns/apps/nginx.md",
+                "file": "PD Manual/0-前言与补充材料/001-前言.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb3588bef8cd7f48",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PDManualAssets/Build APK/Pasted image 20230825193909.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference MarkDowns/apps/nginx.md",
+                "file": "PDManualAssets/Build APK/Pasted image 20230825193909.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference MarkDowns/apps/nginx.md",
+                "file": "PDManualAssets/Build APK/Pasted image 20230825193909.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference MarkDowns/apps/nginx.md"
+                "file": "PDManualAssets/Build APK/Pasted image 20230825193909.png"
               }
             }
           }
@@ -164,56 +174,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b39edf34aa6c00c6",
+  "active": "4309ed58ea3486f8",
   "lastOpenFiles": [
+    "PDManualAssets/Importing/Pasted image 20230825091004.png",
+    "PDManualAssets/Build APK",
+    "PDManualAssets/Build APK/Pasted image 20230825193909.png",
+    "PD Manual/2-项目基本配置/202-APK打包.md",
+    "PD Manual/2-项目基本配置/203-设备调试.md",
+    "PD Manual/0-前言与补充材料/012-补充材料-有效提问.md",
+    "PD Manual/1-必要软件安装/102-Android Studio安装.md",
+    "PD Manual/1-必要软件安装/101-Java环境搭建.md",
+    "PD Manual/1-必要软件安装/103-Git安装.md",
+    "PD Manual/2-项目基本配置/201-项目导入.md",
+    "PD Manual/2-项目基本配置/204-更改签名，包名信息.md",
+    "PD Manual/a-附加材料/101-a 环境变量配置.md",
+    "PD Manual/~目录/目录.md",
+    "PDManualAssets/Build APK/Pasted image 20230825195459.png",
+    "PDManualAssets/Build APK/Pasted image 20230825195420.png",
+    "PDManualAssets/Build APK/Pasted image 20230825194231.png",
+    "PDManualAssets/Build APK/Pasted image 20230825195326.png",
+    "PDManualAssets/Build APK/Pasted image 20230825194358.png",
+    "PDManualAssets/Pasted image 20230825194437.png",
+    "PDManualAssets/Build APK/Pasted image 20230825194036.png",
+    "PDManualAssets/Build APK/Pasted image 20230825194017.png",
+    "PDManualAssets/Importing",
+    "PDManualAssets/GitInstall",
+    "PD Manual/0-前言与补充材料/011-补充材料-信息检索.md",
+    "PDManualAssets/AndroidStudioInstall",
+    "PD Manual/0-前言与补充材料/001-前言.md",
+    "Pasted image 20230824171241.png.md",
+    "PD Manual/a-附加材料",
+    "PD Manual/2-项目基本配置",
+    "PD Manual/1-必要软件安装",
+    "Reference MarkDowns/apps/nginx.md",
+    "PD Manual/0-前言与补充材料",
     "Reference MarkDowns/apps/passbolt.md",
     "Reference MarkDowns/apps/portainer.md",
-    "Reference MarkDowns/apps/nginx.md",
     "Reference MarkDowns/apps/cloudflare-tunnels.md",
-    "PD Manual/Other/目录.md",
-    "PD Manual/204-更改签名，包名信息.md",
     "_template/pageTemplate.md",
-    "PD Manual/011-补充材料-信息检索.md",
-    "PD Manual/201-项目导入与版本控制.md",
-    "PD Manual/012-补充材料-有效提问.md",
-    "PD Manual/001-前言.md",
-    "PD Manual/203-设备调试.md",
-    "PD Manual/202-依赖安装.md",
-    "PD Manual/103-Git安装.md",
-    "PD Manual/102-Android Studio安装.md",
-    "PD Manual/101-Java环境搭建.md",
-    "PD Manual/Other",
-    "PDManualAssets/Other/PDManual.png",
+    "PD Manual/~目录",
     "Reference MarkDowns/cloud/provider/civo.md",
     "PDManualAssets/Other",
-    "PDManualAssets/新建文件夹",
     "Reference MarkDowns/cloud/provider/digitalocean.md",
-    "publish.css",
-    "新建文本文档.txt",
-    "新建文件夹",
     "Untitled.md",
     "PD Manual/Untitled.md",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134154.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134136.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134135.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134133.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134131.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134129.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134126.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134124.png",
-    "PDManualAssets/JavaEnv/Pasted image 20230816134122.png",
-    "PDManualAssets/JavaEnv",
     "Reference MarkDowns/apps/cert-manager.md",
     "Reference MarkDowns/apps/bind9.md",
-    "Reference MarkDowns/apps/argocd.md",
-    "PDManualAssets/InfoGathering",
-    "Reference MarkDowns/apps/grafana.md",
-    "_template",
-    "PDManualAssets",
-    "Index.md",
-    "Reference MarkDowns/tools/wsl.md"
+    "Reference MarkDowns/apps/argocd.md"
   ]
 }
